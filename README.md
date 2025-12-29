@@ -11,9 +11,9 @@ My focus has been on building reliable data pipelines, clean schemas, and reprod
 - Git & GitHub
 
 ## Projects
-- 🚧 Data Warehouse ETL Pipeline
-- 📊 Analytics Engineering with dbt
-- 🛠️ API → Database Ingestion Pipeline
+- Data Warehouse ETL Pipeline
+- Analytics Engineering with dbt
+- API → Database Ingestion Pipeline
 
 ## What I'm learning next
 - Airflow
