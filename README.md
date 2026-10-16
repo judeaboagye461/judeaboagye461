@@ -1,6 +1,6 @@
 # Hi, my name is Jude Aboagye.
 
-I'm a data analytics master's student, and I've been working on a career change transitioning into data engineering.
+I'm a data analytics master's student, and I've been working on a career change transitioning into software/data engineering.
 My focus has been on building reliable data pipelines, clean schemas, and reproducible workflows.
 
 ## Skills I'm Building
