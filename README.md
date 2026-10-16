@@ -14,6 +14,7 @@ My focus has been on building reliable data pipelines, clean schemas, and reprod
 - Data Warehouse ETL Pipeline
 - Analytics Engineering with dbt
 - API → Database Ingestion Pipeline
+- Jury Data Pipeline/Dashboard
 
 ## What I'm learning next
 - Airflow
