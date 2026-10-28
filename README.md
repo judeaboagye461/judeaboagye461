@@ -6,7 +6,6 @@ My focus has been on building reliable data pipelines, clean schemas, and reprod
 
 ## Projects
 - Data Warehouse ETL Pipeline
-- Analytics Engineering with dbt
 - API → Database Ingestion Pipeline
 - Jury Data Pipeline/Dashboard
 
